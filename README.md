@@ -107,13 +107,19 @@ To deploy this project run
 
 
 ## 🚀 About Me
-I'm a full stack developer...
-We can create full stack website
-on Node JS, MongoDB, MySQL, React JS, JS, CSS and HTML
 
-
-
+I'm a full stack developer with expertise in creating full stack websites using technologies like Node JS, MongoDB, MySQL, React JS, JS, CSS, and HTML.
 
 ## 🛠 Skills
-Node JS, MongoDB, MySQL, React JS, JS, CSS and HTML...
+
+- Node JS
+- MongoDB
+- MySQL
+- React JS
+- JavaScript
+- CSS
+- HTML
+
+
+
 
